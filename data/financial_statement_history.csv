@@ -1,0 +1,1032 @@
+date,metric,value,financial_statement,ticker,quarter,year
+2025-03-31,Total Assets,81274000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Total Assets,81611000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Total Assets,83511000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Total Assets,84016000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Total Assets,83347000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Total Liabilities Net Minority Interest,61020000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Total Liabilities Net Minority Interest,61194000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Total Liabilities Net Minority Interest,63337000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Total Liabilities Net Minority Interest,63394000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Total Liabilities Net Minority Interest,62645000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Total Equity Gross Minority Interest,20254000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Total Equity Gross Minority Interest,20417000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Total Equity Gross Minority Interest,20174000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Total Equity Gross Minority Interest,20622000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Total Equity Gross Minority Interest,20702000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Total Capitalization,31671000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Total Capitalization,30296000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Total Capitalization,30150000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Total Capitalization,30349000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Total Capitalization,30385000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Common Stock Equity,20254000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Common Stock Equity,20417000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Common Stock Equity,20174000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Common Stock Equity,20622000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Common Stock Equity,20702000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Net Tangible Assets,9048000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Net Tangible Assets,9254000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Net Tangible Assets,8785000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Net Tangible Assets,9403000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Net Tangible Assets,9321000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Working Capital,13989000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Working Capital,12716000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Working Capital,12405000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Working Capital,12259000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Working Capital,13860000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Invested Capital,31671000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Invested Capital,30296000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Invested Capital,30150000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Invested Capital,30349000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Invested Capital,30385000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Tangible Book Value,9048000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Tangible Book Value,9254000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Tangible Book Value,8785000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Tangible Book Value,9403000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Tangible Book Value,9321000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Total Debt,11417000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Total Debt,9879000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Total Debt,9976000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Total Debt,9727000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Total Debt,9683000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Net Debt,3968000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Net Debt,3318000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Net Debt,2704000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Net Debt,2026000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Net Debt,,balance_sheet,PYPL,Q1,2024
+2025-03-31,Share Issued,1335000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Share Issued,1330000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Share Issued,1328000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Share Issued,1326000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Share Issued,1322643.34,balance_sheet,PYPL,Q1,2024
+2025-03-31,Ordinary Shares Number,979000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Ordinary Shares Number,993000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Ordinary Shares Number,1006000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Ordinary Shares Number,1032000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Ordinary Shares Number,1052643.34,balance_sheet,PYPL,Q1,2024
+2025-03-31,Treasury Shares Number,356000.0,balance_sheet,PYPL,Q1,2025
+2024-12-31,Treasury Shares Number,337000.0,balance_sheet,PYPL,Q4,2024
+2024-09-30,Treasury Shares Number,322000.0,balance_sheet,PYPL,Q3,2024
+2024-06-30,Treasury Shares Number,294000.0,balance_sheet,PYPL,Q2,2024
+2024-03-31,Treasury Shares Number,270000.0,balance_sheet,PYPL,Q1,2024
+2025-03-31,Total Revenue,7791000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Total Revenue,8366000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Total Revenue,7847000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Total Revenue,7885000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Total Revenue,7699000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Cost of Revenue,4075000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Cost of Revenue,4431000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Cost of Revenue,4193000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Cost of Revenue,4277000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Cost of Revenue,4238000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Gross Profit,3716000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Gross Profit,3935000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Gross Profit,3654000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Gross Profit,3608000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Gross Profit,3461000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Operating Expense,2120000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Operating Expense,2444000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Operating Expense,2200000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Operating Expense,2170000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Operating Expense,2081000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Operating Income,1596000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Operating Income,1491000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Operating Income,1454000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Operating Income,1438000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Operating Income,1380000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Net Non Operating Interest Income Expense,42000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Net Non Operating Interest Income Expense,51000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Net Non Operating Interest Income Expense,77000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Net Non Operating Interest Income Expense,72000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Net Non Operating Interest Income Expense,80000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Other Income Expense,-35000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Other Income Expense,-132000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Other Income Expense,-220000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Other Income Expense,-111000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Other Income Expense,-251000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Pretax Income,1603000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Pretax Income,1410000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Pretax Income,1311000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Pretax Income,1399000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Pretax Income,1209000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Tax Provision,316000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Tax Provision,289000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Tax Provision,301000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Tax Provision,271000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Tax Provision,321000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Net Income Common Stockholders,1287000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Net Income Common Stockholders,1121000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Net Income Common Stockholders,1010000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Net Income Common Stockholders,1128000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Net Income Common Stockholders,888000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Diluted NI Available to Com Stockholders,1287000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Diluted NI Available to Com Stockholders,1121000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Diluted NI Available to Com Stockholders,1010000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Diluted NI Available to Com Stockholders,1128000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Diluted NI Available to Com Stockholders,888000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Basic EPS,1.31,income_statement,PYPL,Q1,2025
+2024-12-31,Basic EPS,1.12,income_statement,PYPL,Q4,2024
+2024-09-30,Basic EPS,1.0,income_statement,PYPL,Q3,2024
+2024-06-30,Basic EPS,1.08,income_statement,PYPL,Q2,2024
+2024-03-31,Basic EPS,0.83,income_statement,PYPL,Q1,2024
+2025-03-31,Diluted EPS,1.29,income_statement,PYPL,Q1,2025
+2024-12-31,Diluted EPS,1.11,income_statement,PYPL,Q4,2024
+2024-09-30,Diluted EPS,0.99,income_statement,PYPL,Q3,2024
+2024-06-30,Diluted EPS,1.08,income_statement,PYPL,Q2,2024
+2024-03-31,Diluted EPS,0.83,income_statement,PYPL,Q1,2024
+2025-03-31,Basic Average Shares,986000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Basic Average Shares,997000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Basic Average Shares,1015000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Basic Average Shares,1042000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Basic Average Shares,1064000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Diluted Average Shares,999000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Diluted Average Shares,1014000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Diluted Average Shares,1024000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Diluted Average Shares,1047000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Diluted Average Shares,1072000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Total Operating Income as Reported,1530000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Total Operating Income as Reported,1441000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Total Operating Income as Reported,1391000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Total Operating Income as Reported,1325000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Total Operating Income as Reported,1168000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Total Expenses,6195000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Total Expenses,6875000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Total Expenses,6393000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Total Expenses,6447000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Total Expenses,6319000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Net Income from Continuing & Discontinued Operation,1287000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Net Income from Continuing & Discontinued Operation,1121000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Net Income from Continuing & Discontinued Operation,1010000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Net Income from Continuing & Discontinued Operation,1128000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Net Income from Continuing & Discontinued Operation,888000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Normalized Income,1301400.0,income_statement,PYPL,Q1,2025
+2024-12-31,Normalized Income,1207658.87,income_statement,PYPL,Q4,2024
+2024-09-30,Normalized Income,1190180.0,income_statement,PYPL,Q3,2024
+2024-06-30,Normalized Income,1224390.0,income_statement,PYPL,Q2,2024
+2024-03-31,Normalized Income,1078530.0,income_statement,PYPL,Q1,2024
+2025-03-31,Interest Income,145000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Interest Income,148000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Interest Income,183000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Interest Income,165000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Interest Income,166000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Interest Expense,103000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Interest Expense,97000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Interest Expense,106000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Interest Expense,93000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Interest Expense,86000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Net Interest Income,42000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Net Interest Income,51000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Net Interest Income,77000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Net Interest Income,72000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Net Interest Income,80000.0,income_statement,PYPL,Q1,2024
+2025-03-31,EBIT,1706000.0,income_statement,PYPL,Q1,2025
+2024-12-31,EBIT,1507000.0,income_statement,PYPL,Q4,2024
+2024-09-30,EBIT,1417000.0,income_statement,PYPL,Q3,2024
+2024-06-30,EBIT,1492000.0,income_statement,PYPL,Q2,2024
+2024-03-31,EBIT,1295000.0,income_statement,PYPL,Q1,2024
+2025-03-31,EBITDA,1951000.0,income_statement,PYPL,Q1,2025
+2024-12-31,EBITDA,1756000.0,income_statement,PYPL,Q4,2024
+2024-09-30,EBITDA,1672000.0,income_statement,PYPL,Q3,2024
+2024-06-30,EBITDA,1755000.0,income_statement,PYPL,Q2,2024
+2024-03-31,EBITDA,1560000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Reconciled Cost of Revenue,4075000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Reconciled Cost of Revenue,4431000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Reconciled Cost of Revenue,4193000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Reconciled Cost of Revenue,4277000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Reconciled Cost of Revenue,4238000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Reconciled Depreciation,245000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Reconciled Depreciation,249000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Reconciled Depreciation,255000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Reconciled Depreciation,263000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Reconciled Depreciation,265000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Net Income from Continuing Operation Net Minority Interest,1287000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Net Income from Continuing Operation Net Minority Interest,1121000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Net Income from Continuing Operation Net Minority Interest,1010000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Net Income from Continuing Operation Net Minority Interest,1128000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Net Income from Continuing Operation Net Minority Interest,888000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Total Unusual Items Excluding Goodwill,-18000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Total Unusual Items Excluding Goodwill,-109000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Total Unusual Items Excluding Goodwill,-234000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Total Unusual Items Excluding Goodwill,-119000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Total Unusual Items Excluding Goodwill,-261000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Total Unusual Items,-18000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Total Unusual Items,-109000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Total Unusual Items,-234000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Total Unusual Items,-119000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Total Unusual Items,-261000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Normalized EBITDA,1969000.0,income_statement,PYPL,Q1,2025
+2024-12-31,Normalized EBITDA,1865000.0,income_statement,PYPL,Q4,2024
+2024-09-30,Normalized EBITDA,1906000.0,income_statement,PYPL,Q3,2024
+2024-06-30,Normalized EBITDA,1874000.0,income_statement,PYPL,Q2,2024
+2024-03-31,Normalized EBITDA,1821000.0,income_statement,PYPL,Q1,2024
+2025-03-31,Tax Rate for Calcs,0.0,income_statement,PYPL,Q1,2025
+2024-12-31,Tax Rate for Calcs,0.0,income_statement,PYPL,Q4,2024
+2024-09-30,Tax Rate for Calcs,0.0,income_statement,PYPL,Q3,2024
+2024-06-30,Tax Rate for Calcs,0.0,income_statement,PYPL,Q2,2024
+2024-03-31,Tax Rate for Calcs,0.0,income_statement,PYPL,Q1,2024
+2025-03-31,Tax Effect of Unusual Items,-3600.0,income_statement,PYPL,Q1,2025
+2024-12-31,Tax Effect of Unusual Items,-22341.13,income_statement,PYPL,Q4,2024
+2024-09-30,Tax Effect of Unusual Items,-53820.0,income_statement,PYPL,Q3,2024
+2024-06-30,Tax Effect of Unusual Items,-22610.0,income_statement,PYPL,Q2,2024
+2024-03-31,Tax Effect of Unusual Items,-70470.0,income_statement,PYPL,Q1,2024
+2025-03-31,Total Revenue,771759.0,income_statement,SOFI,Q1,2025
+2025-03-31,Credit Losses Provision,-5678.0,income_statement,SOFI,Q1,2025
+2025-03-31,Non Interest Expense,685172.0,income_statement,SOFI,Q1,2025
+2025-03-31,Special Income Charges,-1127.0,income_statement,SOFI,Q1,2025
+2025-03-31,Pretax Income,79782.0,income_statement,SOFI,Q1,2025
+2025-03-31,Tax Provision,8666.0,income_statement,SOFI,Q1,2025
+2025-03-31,Net Income Common Stockholders,71116.0,income_statement,SOFI,Q1,2025
+2025-03-31,Average Dilution Earnings,339.0,income_statement,SOFI,Q1,2025
+2025-03-31,Diluted NI Available to Com Stockholders,71455.0,income_statement,SOFI,Q1,2025
+2025-03-31,Basic EPS,0.06,income_statement,SOFI,Q1,2025
+2025-03-31,Diluted EPS,0.06,income_statement,SOFI,Q1,2025
+2025-03-31,Basic Average Shares,1097994.0,income_statement,SOFI,Q1,2025
+2025-03-31,Diluted Average Shares,1185466.0,income_statement,SOFI,Q1,2025
+2025-03-31,Interest Income after Provision for Loan Loss,493048.0,income_statement,SOFI,Q1,2025
+2025-03-31,Net Income from Continuing & Discontinued Operation,71116.0,income_statement,SOFI,Q1,2025
+2025-03-31,Normalized Income,72120.58,income_statement,SOFI,Q1,2025
+2025-03-31,Reconciled Depreciation,55283.0,income_statement,SOFI,Q1,2025
+2025-03-31,Net Income from Continuing Operation Net Minority Interest,71116.0,income_statement,SOFI,Q1,2025
+2025-03-31,Total Unusual Items Excluding Goodwill,-1127.0,income_statement,SOFI,Q1,2025
+2025-03-31,Total Unusual Items,-1127.0,income_statement,SOFI,Q1,2025
+2025-03-31,Tax Rate for Calcs,0.0,income_statement,SOFI,Q1,2025
+2025-03-31,Tax Effect of Unusual Items,-122.42,income_statement,SOFI,Q1,2025
+2024-12-31,Total Revenue,734125.0,income_statement,SOFI,Q4,2024
+2024-12-31,Credit Losses Provision,-6877.0,income_statement,SOFI,Q4,2024
+2024-12-31,Non Interest Expense,666229.0,income_statement,SOFI,Q4,2024
+2024-12-31,Special Income Charges,-1095.0,income_statement,SOFI,Q4,2024
+2024-12-31,Pretax Income,59924.0,income_statement,SOFI,Q4,2024
+2024-12-31,Tax Provision,-272549.0,income_statement,SOFI,Q4,2024
+2024-12-31,Net Income Common Stockholders,332473.0,income_statement,SOFI,Q4,2024
+2024-12-31,Average Dilution Earnings,13375.0,income_statement,SOFI,Q4,2024
+2024-12-31,Diluted NI Available to Com Stockholders,345848.0,income_statement,SOFI,Q4,2024
+2024-12-31,Basic EPS,0.31,income_statement,SOFI,Q4,2024
+2024-12-31,Diluted EPS,0.29,income_statement,SOFI,Q4,2024
+2024-12-31,Basic Average Shares,1087863.0,income_statement,SOFI,Q4,2024
+2024-12-31,Diluted Average Shares,1151047.0,income_statement,SOFI,Q4,2024
+2024-12-31,Interest Income after Provision for Loan Loss,463292.0,income_statement,SOFI,Q4,2024
+2024-12-31,Net Income from Continuing & Discontinued Operation,332473.0,income_statement,SOFI,Q4,2024
+2024-12-31,Normalized Income,333338.05,income_statement,SOFI,Q4,2024
+2024-12-31,Reconciled Depreciation,53545.0,income_statement,SOFI,Q4,2024
+2024-12-31,Net Income from Continuing Operation Net Minority Interest,332473.0,income_statement,SOFI,Q4,2024
+2024-12-31,Total Unusual Items Excluding Goodwill,-1095.0,income_statement,SOFI,Q4,2024
+2024-12-31,Total Unusual Items,-1095.0,income_statement,SOFI,Q4,2024
+2024-12-31,Tax Rate for Calcs,0.0,income_statement,SOFI,Q4,2024
+2024-12-31,Tax Effect of Unusual Items,-229.95,income_statement,SOFI,Q4,2024
+2024-09-30,Total Revenue,693798.0,income_statement,SOFI,Q3,2024
+2024-09-30,Credit Losses Provision,-6013.0,income_statement,SOFI,Q3,2024
+2024-09-30,Non Interest Expense,625503.0,income_statement,SOFI,Q3,2024
+2024-09-30,Special Income Charges,1573.0,income_statement,SOFI,Q3,2024
+2024-09-30,Pretax Income,63855.0,income_statement,SOFI,Q3,2024
+2024-09-30,Tax Provision,3110.0,income_statement,SOFI,Q3,2024
+2024-09-30,Net Income Common Stockholders,60745.0,income_statement,SOFI,Q3,2024
+2024-09-30,Average Dilution Earnings,-2686.0,income_statement,SOFI,Q3,2024
+2024-09-30,Diluted NI Available to Com Stockholders,58059.0,income_statement,SOFI,Q3,2024
+2024-09-30,Basic EPS,0.06,income_statement,SOFI,Q3,2024
+2024-09-30,Diluted EPS,0.05,income_statement,SOFI,Q3,2024
+2024-09-30,Basic Average Shares,1071159.75,income_statement,SOFI,Q3,2024
+2024-09-30,Diluted Average Shares,1104450.42,income_statement,SOFI,Q3,2024
+2024-09-30,Interest Income after Provision for Loan Loss,424997.0,income_statement,SOFI,Q3,2024
+2024-09-30,Net Income from Continuing & Discontinued Operation,60745.0,income_statement,SOFI,Q3,2024
+2024-09-30,Normalized Income,59248.61,income_statement,SOFI,Q3,2024
+2024-09-30,Reconciled Depreciation,51791.0,income_statement,SOFI,Q3,2024
+2024-09-30,Net Income from Continuing Operation Net Minority Interest,60745.0,income_statement,SOFI,Q3,2024
+2024-09-30,Total Unusual Items Excluding Goodwill,1573.0,income_statement,SOFI,Q3,2024
+2024-09-30,Total Unusual Items,1573.0,income_statement,SOFI,Q3,2024
+2024-09-30,Tax Rate for Calcs,0.0,income_statement,SOFI,Q3,2024
+2024-09-30,Tax Effect of Unusual Items,76.61,income_statement,SOFI,Q3,2024
+2024-06-30,Total Revenue,598618.0,income_statement,SOFI,Q2,2024
+2024-06-30,Credit Losses Provision,-11640.0,income_statement,SOFI,Q2,2024
+2024-06-30,Non Interest Expense,570829.0,income_statement,SOFI,Q2,2024
+2024-06-30,Special Income Charges,-809.0,income_statement,SOFI,Q2,2024
+2024-06-30,Pretax Income,15340.0,income_statement,SOFI,Q2,2024
+2024-06-30,Tax Provision,-2064.0,income_statement,SOFI,Q2,2024
+2024-06-30,Net Income Common Stockholders,7954.0,income_statement,SOFI,Q2,2024
+2024-06-30,Average Dilution Earnings,0.0,income_statement,SOFI,Q2,2024
+2024-06-30,Diluted NI Available to Com Stockholders,7954.0,income_statement,SOFI,Q2,2024
+2024-06-30,Basic EPS,0.01,income_statement,SOFI,Q2,2024
+2024-06-30,Diluted EPS,0.01,income_statement,SOFI,Q2,2024
+2024-06-30,Basic Average Shares,1058591.94,income_statement,SOFI,Q2,2024
+2024-06-30,Diluted Average Shares,1065171.36,income_statement,SOFI,Q2,2024
+2024-06-30,Interest Income after Provision for Loan Loss,400944.0,income_statement,SOFI,Q2,2024
+2024-06-30,Net Income from Continuing & Discontinued Operation,17404.0,income_statement,SOFI,Q2,2024
+2024-06-30,Normalized Income,18043.11,income_statement,SOFI,Q2,2024
+2024-06-30,Reconciled Depreciation,49623.0,income_statement,SOFI,Q2,2024
+2024-06-30,Net Income from Continuing Operation Net Minority Interest,17404.0,income_statement,SOFI,Q2,2024
+2024-06-30,Total Unusual Items Excluding Goodwill,-809.0,income_statement,SOFI,Q2,2024
+2024-06-30,Total Unusual Items,-809.0,income_statement,SOFI,Q2,2024
+2024-06-30,Tax Rate for Calcs,0.0,income_statement,SOFI,Q2,2024
+2024-06-30,Tax Effect of Unusual Items,-169.89,income_statement,SOFI,Q2,2024
+2024-03-31,Total Revenue,585801.0,income_statement,SOFI,Q1,2024
+2024-03-31,Credit Losses Provision,-7182.0,income_statement,SOFI,Q1,2024
+2024-03-31,Non Interest Expense,543413.0,income_statement,SOFI,Q1,2024
+2024-03-31,Special Income Charges,59020.0,income_statement,SOFI,Q1,2024
+2024-03-31,Pretax Income,94226.0,income_statement,SOFI,Q1,2024
+2024-03-31,Tax Provision,6183.0,income_statement,SOFI,Q1,2024
+2024-03-31,Net Income Common Stockholders,77964.0,income_statement,SOFI,Q1,2024
+2024-03-31,Average Dilution Earnings,-55441.0,income_statement,SOFI,Q1,2024
+2024-03-31,Diluted NI Available to Com Stockholders,22523.0,income_statement,SOFI,Q1,2024
+2024-03-31,Basic EPS,0.08,income_statement,SOFI,Q1,2024
+2024-03-31,Diluted EPS,0.02,income_statement,SOFI,Q1,2024
+2024-03-31,Basic Average Shares,982617.0,income_statement,SOFI,Q1,2024
+2024-03-31,Diluted Average Shares,1042477.0,income_statement,SOFI,Q1,2024
+2024-03-31,Interest Income after Provision for Loan Loss,395536.0,income_statement,SOFI,Q1,2024
+2024-03-31,Net Income from Continuing & Discontinued Operation,88043.0,income_statement,SOFI,Q1,2024
+2024-03-31,Normalized Income,32895.82,income_statement,SOFI,Q1,2024
+2024-03-31,Reconciled Depreciation,48539.0,income_statement,SOFI,Q1,2024
+2024-03-31,Net Income from Continuing Operation Net Minority Interest,88043.0,income_statement,SOFI,Q1,2024
+2024-03-31,Total Unusual Items Excluding Goodwill,59020.0,income_statement,SOFI,Q1,2024
+2024-03-31,Total Unusual Items,59020.0,income_statement,SOFI,Q1,2024
+2024-03-31,Tax Rate for Calcs,0.0,income_statement,SOFI,Q1,2024
+2024-03-31,Tax Effect of Unusual Items,3872.82,income_statement,SOFI,Q1,2024
+2025-03-31,Total Assets,37749286.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Total Liabilities Net Minority Interest,31070772.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Total Equity Gross Minority Interest,6678514.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Total Capitalization,9239238.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Preferred Stock Equity,,balance_sheet,SOFI,Q1,2025
+2025-03-31,Common Stock Equity,6678514.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Capital Lease Obligations,93135.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Net Tangible Assets,4615472.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Invested Capital,9725238.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Tangible Book Value,4615472.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Total Debt,3139859.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Net Debt,961027.0,balance_sheet,SOFI,Q1,2025
+2025-03-31,Share Issued,1104104.2,balance_sheet,SOFI,Q1,2025
+2025-03-31,Ordinary Shares Number,1104104.2,balance_sheet,SOFI,Q1,2025
+2025-03-31,Preferred Shares Number,,balance_sheet,SOFI,Q1,2025
+2025-03-31,Treasury Shares Number,,balance_sheet,SOFI,Q1,2025
+2024-12-31,Total Assets,36250951.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Total Liabilities Net Minority Interest,29725817.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Total Equity Gross Minority Interest,6525134.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Total Capitalization,9132435.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Preferred Stock Equity,,balance_sheet,SOFI,Q4,2024
+2024-12-31,Common Stock Equity,6525134.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Capital Lease Obligations,110909.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Net Tangible Assets,4491707.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Invested Capital,9618435.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Tangible Book Value,4491707.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Total Debt,3204210.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Net Debt,555008.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Share Issued,1095357.78,balance_sheet,SOFI,Q4,2024
+2024-12-31,Ordinary Shares Number,1095357.78,balance_sheet,SOFI,Q4,2024
+2024-12-31,Preferred Shares Number,3234.0,balance_sheet,SOFI,Q4,2024
+2024-12-31,Treasury Shares Number,,balance_sheet,SOFI,Q4,2024
+2024-09-30,Total Assets,34380176.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Total Liabilities Net Minority Interest,28258695.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Total Equity Gross Minority Interest,6121481.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Total Capitalization,8816344.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Preferred Stock Equity,,balance_sheet,SOFI,Q3,2024
+2024-09-30,Common Stock Equity,6121481.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Capital Lease Obligations,101028.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Net Tangible Assets,4116890.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Invested Capital,9302344.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Tangible Book Value,4116890.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Total Debt,3281891.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Net Debt,825898.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Share Issued,1084136.52,balance_sheet,SOFI,Q3,2024
+2024-09-30,Ordinary Shares Number,1084136.52,balance_sheet,SOFI,Q3,2024
+2024-09-30,Preferred Shares Number,3234.0,balance_sheet,SOFI,Q3,2024
+2024-09-30,Treasury Shares Number,,balance_sheet,SOFI,Q3,2024
+2024-06-30,Total Assets,32641979.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Total Liabilities Net Minority Interest,26740485.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Total Equity Gross Minority Interest,5901494.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Total Capitalization,8522847.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Preferred Stock Equity,,balance_sheet,SOFI,Q2,2024
+2024-06-30,Common Stock Equity,5901494.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Capital Lease Obligations,100797.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Net Tangible Assets,3885214.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Invested Capital,9008847.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Tangible Book Value,3885214.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Total Debt,3208150.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Net Debt,772764.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Share Issued,1065112.27,balance_sheet,SOFI,Q2,2024
+2024-06-30,Ordinary Shares Number,1065112.27,balance_sheet,SOFI,Q2,2024
+2024-06-30,Preferred Shares Number,3234.0,balance_sheet,SOFI,Q2,2024
+2024-06-30,Treasury Shares Number,0.0,balance_sheet,SOFI,Q2,2024
+2024-03-31,Total Assets,31305760.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Total Liabilities Net Minority Interest,25159781.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Total Equity Gross Minority Interest,6145979.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Total Capitalization,8555425.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Preferred Stock Equity,320374.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Common Stock Equity,5825605.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Capital Lease Obligations,105556.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Net Tangible Assets,4164227.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Invested Capital,8721051.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Tangible Book Value,3843853.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Total Debt,3001002.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Net Debt,,balance_sheet,SOFI,Q1,2024
+2024-03-31,Share Issued,1056491.37,balance_sheet,SOFI,Q1,2024
+2024-03-31,Ordinary Shares Number,1056491.37,balance_sheet,SOFI,Q1,2024
+2024-03-31,Preferred Shares Number,3234.0,balance_sheet,SOFI,Q1,2024
+2024-03-31,Treasury Shares Number,,balance_sheet,SOFI,Q1,2024
+date,metric,value,financial_statement,ticker,quarter,year
+2025-03-31,Total Revenue,586010.0,income_statement,HIMS,Q1,2025
+2024-12-31,Total Revenue,481139.0,income_statement,HIMS,Q4,2024
+2024-09-30,Total Revenue,401556.0,income_statement,HIMS,Q3,2024
+2024-06-30,Total Revenue,315648.0,income_statement,HIMS,Q2,2024
+2024-03-31,Total Revenue,278171.0,income_statement,HIMS,Q1,2024
+2025-03-31,Cost of Revenue,155321.0,income_statement,HIMS,Q1,2025
+2024-12-31,Cost of Revenue,111598.0,income_statement,HIMS,Q4,2024
+2024-09-30,Cost of Revenue,83670.0,income_statement,HIMS,Q3,2024
+2024-06-30,Cost of Revenue,59035.0,income_statement,HIMS,Q2,2024
+2024-03-31,Cost of Revenue,49076.0,income_statement,HIMS,Q1,2024
+2025-03-31,Gross Profit,430689.0,income_statement,HIMS,Q1,2025
+2024-12-31,Gross Profit,369541.0,income_statement,HIMS,Q4,2024
+2024-09-30,Gross Profit,317886.0,income_statement,HIMS,Q3,2024
+2024-06-30,Gross Profit,256613.0,income_statement,HIMS,Q2,2024
+2024-03-31,Gross Profit,229095.0,income_statement,HIMS,Q1,2024
+2025-03-31,Operating Expense,372792.0,income_statement,HIMS,Q1,2025
+2024-12-31,Operating Expense,350945.0,income_statement,HIMS,Q4,2024
+2024-09-30,Operating Expense,295512.0,income_statement,HIMS,Q3,2024
+2024-06-30,Operating Expense,245583.0,income_statement,HIMS,Q2,2024
+2024-03-31,Operating Expense,219192.0,income_statement,HIMS,Q1,2024
+2025-03-31,Operating Income,57897.0,income_statement,HIMS,Q1,2025
+2024-12-31,Operating Income,18596.0,income_statement,HIMS,Q4,2024
+2024-09-30,Operating Income,22374.0,income_statement,HIMS,Q3,2024
+2024-06-30,Operating Income,11030.0,income_statement,HIMS,Q2,2024
+2024-03-31,Operating Income,9903.0,income_statement,HIMS,Q1,2024
+2025-03-31,Other Income Expense,2598.0,income_statement,HIMS,Q1,2025
+2024-12-31,Other Income Expense,3695.0,income_statement,HIMS,Q4,2024
+2024-09-30,Other Income Expense,1219.0,income_statement,HIMS,Q3,2024
+2024-06-30,Other Income Expense,2394.0,income_statement,HIMS,Q2,2024
+2024-03-31,Other Income Expense,2500.0,income_statement,HIMS,Q1,2024
+2025-03-31,Pretax Income,60495.0,income_statement,HIMS,Q1,2025
+2024-12-31,Pretax Income,22291.0,income_statement,HIMS,Q4,2024
+2024-09-30,Pretax Income,23593.0,income_statement,HIMS,Q3,2024
+2024-06-30,Pretax Income,13424.0,income_statement,HIMS,Q2,2024
+2024-03-31,Pretax Income,12403.0,income_statement,HIMS,Q1,2024
+2025-03-31,Tax Provision,11010.0,income_statement,HIMS,Q1,2025
+2024-12-31,Tax Provision,-3734.0,income_statement,HIMS,Q4,2024
+2024-09-30,Tax Provision,-51995.0,income_statement,HIMS,Q3,2024
+2024-06-30,Tax Provision,127.0,income_statement,HIMS,Q2,2024
+2024-03-31,Tax Provision,1275.0,income_statement,HIMS,Q1,2024
+2025-03-31,Net Income Common Stockholders,49485.0,income_statement,HIMS,Q1,2025
+2024-12-31,Net Income Common Stockholders,26025.0,income_statement,HIMS,Q4,2024
+2024-09-30,Net Income Common Stockholders,75588.0,income_statement,HIMS,Q3,2024
+2024-06-30,Net Income Common Stockholders,13297.0,income_statement,HIMS,Q2,2024
+2024-03-31,Net Income Common Stockholders,11128.0,income_statement,HIMS,Q1,2024
+2025-03-31,Diluted NI Available to Com Stockholders,49485.0,income_statement,HIMS,Q1,2025
+2024-12-31,Diluted NI Available to Com Stockholders,26025.0,income_statement,HIMS,Q4,2024
+2024-09-30,Diluted NI Available to Com Stockholders,75588.0,income_statement,HIMS,Q3,2024
+2024-06-30,Diluted NI Available to Com Stockholders,13297.0,income_statement,HIMS,Q2,2024
+2024-03-31,Diluted NI Available to Com Stockholders,11128.0,income_statement,HIMS,Q1,2024
+2025-03-31,Basic EPS,0.22,income_statement,HIMS,Q1,2025
+2024-12-31,Basic EPS,0.12,income_statement,HIMS,Q4,2024
+2024-09-30,Basic EPS,0.35,income_statement,HIMS,Q3,2024
+2024-06-30,Basic EPS,0.06,income_statement,HIMS,Q2,2024
+2024-03-31,Basic EPS,0.05,income_statement,HIMS,Q1,2024
+2025-03-31,Diluted EPS,0.2,income_statement,HIMS,Q1,2025
+2024-12-31,Diluted EPS,0.11,income_statement,HIMS,Q4,2024
+2024-09-30,Diluted EPS,0.32,income_statement,HIMS,Q3,2024
+2024-06-30,Diluted EPS,0.06,income_statement,HIMS,Q2,2024
+2024-03-31,Diluted EPS,0.05,income_statement,HIMS,Q1,2024
+2025-03-31,Basic Average Shares,221989.33,income_statement,HIMS,Q1,2025
+2024-12-31,Basic Average Shares,219027.49,income_statement,HIMS,Q4,2024
+2024-09-30,Basic Average Shares,216617.14,income_statement,HIMS,Q3,2024
+2024-06-30,Basic Average Shares,214618.04,income_statement,HIMS,Q2,2024
+2024-03-31,Basic Average Shares,213452.09,income_statement,HIMS,Q1,2024
+2025-03-31,Diluted Average Shares,246610.23,income_statement,HIMS,Q1,2025
+2024-12-31,Diluted Average Shares,240725.35,income_statement,HIMS,Q4,2024
+2024-09-30,Diluted Average Shares,235069.54,income_statement,HIMS,Q3,2024
+2024-06-30,Diluted Average Shares,234791.99,income_statement,HIMS,Q2,2024
+2024-03-31,Diluted Average Shares,229364.59,income_statement,HIMS,Q1,2024
+2025-03-31,Total Operating Income as Reported,57897.0,income_statement,HIMS,Q1,2025
+2024-12-31,Total Operating Income as Reported,18596.0,income_statement,HIMS,Q4,2024
+2024-09-30,Total Operating Income as Reported,22374.0,income_statement,HIMS,Q3,2024
+2024-06-30,Total Operating Income as Reported,11030.0,income_statement,HIMS,Q2,2024
+2024-03-31,Total Operating Income as Reported,9903.0,income_statement,HIMS,Q1,2024
+2025-03-31,Total Expenses,528113.0,income_statement,HIMS,Q1,2025
+2024-12-31,Total Expenses,462543.0,income_statement,HIMS,Q4,2024
+2024-09-30,Total Expenses,379182.0,income_statement,HIMS,Q3,2024
+2024-06-30,Total Expenses,304618.0,income_statement,HIMS,Q2,2024
+2024-03-31,Total Expenses,268268.0,income_statement,HIMS,Q1,2024
+2025-03-31,Net Income from Continuing & Discontinued Operation,49485.0,income_statement,HIMS,Q1,2025
+2024-12-31,Net Income from Continuing & Discontinued Operation,26025.0,income_statement,HIMS,Q4,2024
+2024-09-30,Net Income from Continuing & Discontinued Operation,75588.0,income_statement,HIMS,Q3,2024
+2024-06-30,Net Income from Continuing & Discontinued Operation,13297.0,income_statement,HIMS,Q2,2024
+2024-03-31,Net Income from Continuing & Discontinued Operation,11128.0,income_statement,HIMS,Q1,2024
+2025-03-31,Normalized Income,49485.0,income_statement,HIMS,Q1,2025
+2024-12-31,Normalized Income,26025.0,income_statement,HIMS,Q4,2024
+2024-09-30,Normalized Income,75588.0,income_statement,HIMS,Q3,2024
+2024-06-30,Normalized Income,13297.0,income_statement,HIMS,Q2,2024
+2024-03-31,Normalized Income,11128.0,income_statement,HIMS,Q1,2024
+2025-03-31,EBIT,57897.0,income_statement,HIMS,Q1,2025
+2024-12-31,EBIT,18596.0,income_statement,HIMS,Q4,2024
+2024-09-30,EBIT,22374.0,income_statement,HIMS,Q3,2024
+2024-06-30,EBIT,11030.0,income_statement,HIMS,Q2,2024
+2024-03-31,EBIT,9903.0,income_statement,HIMS,Q1,2024
+2025-03-31,EBITDA,66173.0,income_statement,HIMS,Q1,2025
+2024-12-31,EBITDA,24657.0,income_statement,HIMS,Q4,2024
+2024-09-30,EBITDA,26757.0,income_statement,HIMS,Q3,2024
+2024-06-30,EBITDA,14673.0,income_statement,HIMS,Q2,2024
+2024-03-31,EBITDA,12904.0,income_statement,HIMS,Q1,2024
+2025-03-31,Reconciled Cost of Revenue,155321.0,income_statement,HIMS,Q1,2025
+2024-12-31,Reconciled Cost of Revenue,111598.0,income_statement,HIMS,Q4,2024
+2024-09-30,Reconciled Cost of Revenue,83670.0,income_statement,HIMS,Q3,2024
+2024-06-30,Reconciled Cost of Revenue,59035.0,income_statement,HIMS,Q2,2024
+2024-03-31,Reconciled Cost of Revenue,49076.0,income_statement,HIMS,Q1,2024
+2025-03-31,Reconciled Depreciation,8276.0,income_statement,HIMS,Q1,2025
+2024-12-31,Reconciled Depreciation,6061.0,income_statement,HIMS,Q4,2024
+2024-09-30,Reconciled Depreciation,4383.0,income_statement,HIMS,Q3,2024
+2024-06-30,Reconciled Depreciation,3643.0,income_statement,HIMS,Q2,2024
+2024-03-31,Reconciled Depreciation,3001.0,income_statement,HIMS,Q1,2024
+2025-03-31,Net Income from Continuing Operation Net Minority Interest,49485.0,income_statement,HIMS,Q1,2025
+2024-12-31,Net Income from Continuing Operation Net Minority Interest,26025.0,income_statement,HIMS,Q4,2024
+2024-09-30,Net Income from Continuing Operation Net Minority Interest,75588.0,income_statement,HIMS,Q3,2024
+2024-06-30,Net Income from Continuing Operation Net Minority Interest,13297.0,income_statement,HIMS,Q2,2024
+2024-03-31,Net Income from Continuing Operation Net Minority Interest,11128.0,income_statement,HIMS,Q1,2024
+2025-03-31,Total Assets,891711.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Total Liabilities Net Minority Interest,342450.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Total Equity Gross Minority Interest,549261.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Total Capitalization,549261.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Common Stock Equity,549261.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Capital Lease Obligations,63384.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Net Tangible Assets,388077.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Working Capital,166602.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Invested Capital,549261.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Tangible Book Value,388077.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Total Debt,63384.0,balance_sheet,HIMS,Q1,2025
+2025-03-31,Share Issued,223583.9,balance_sheet,HIMS,Q1,2025
+2025-03-31,Ordinary Shares Number,223583.9,balance_sheet,HIMS,Q1,2025
+2024-12-31,Total Assets,707539.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Total Liabilities Net Minority Interest,230823.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Total Equity Gross Minority Interest,476716.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Total Capitalization,476716.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Common Stock Equity,476716.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Capital Lease Obligations,11345.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Net Tangible Assets,320578.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Working Capital,174464.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Invested Capital,476716.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Tangible Book Value,320578.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Total Debt,11345.0,balance_sheet,HIMS,Q4,2024
+2024-12-31,Share Issued,220837.21,balance_sheet,HIMS,Q4,2024
+2024-12-31,Ordinary Shares Number,220837.21,balance_sheet,HIMS,Q4,2024
+2024-09-30,Total Assets,602261.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Total Liabilities Net Minority Interest,162210.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Total Equity Gross Minority Interest,440051.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Total Capitalization,440051.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Common Stock Equity,440051.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Capital Lease Obligations,11358.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Net Tangible Assets,282505.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Working Capital,173730.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Invested Capital,440051.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Tangible Book Value,282505.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Total Debt,11358.0,balance_sheet,HIMS,Q3,2024
+2024-09-30,Share Issued,217816.18,balance_sheet,HIMS,Q3,2024
+2024-09-30,Ordinary Shares Number,217816.18,balance_sheet,HIMS,Q3,2024
+2024-06-30,Total Assets,480500.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Total Liabilities Net Minority Interest,118534.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Total Equity Gross Minority Interest,361966.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Total Capitalization,361966.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Common Stock Equity,361966.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Capital Lease Obligations,11475.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Net Tangible Assets,233952.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Working Capital,182247.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Invested Capital,361966.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Tangible Book Value,233952.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Total Debt,11475.0,balance_sheet,HIMS,Q2,2024
+2024-06-30,Share Issued,216795.27,balance_sheet,HIMS,Q2,2024
+2024-06-30,Ordinary Shares Number,216795.27,balance_sheet,HIMS,Q2,2024
+2024-03-31,Total Assets,448106.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Total Liabilities Net Minority Interest,103624.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Total Equity Gross Minority Interest,344482.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Total Capitalization,344482.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Common Stock Equity,344482.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Capital Lease Obligations,11823.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Net Tangible Assets,215738.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Working Capital,168410.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Invested Capital,344482.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Tangible Book Value,215738.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Total Debt,11823.0,balance_sheet,HIMS,Q1,2024
+2024-03-31,Share Issued,214411.25,balance_sheet,HIMS,Q1,2024
+2024-03-31,Ordinary Shares Number,214411.25,balance_sheet,HIMS,Q1,2024
+2025-03-31,Total Revenue,95359000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Total Revenue,124300000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Total Revenue,94930000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Total Revenue,85777000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Total Revenue,90753000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Cost of Revenue,50492000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Cost of Revenue,66025000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Cost of Revenue,51051000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Cost of Revenue,46099000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Cost of Revenue,48482000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Gross Profit,44867000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Gross Profit,58275000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Gross Profit,43879000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Gross Profit,39678000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Gross Profit,42271000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Operating Expense,15278000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Operating Expense,15443000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Operating Expense,14288000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Operating Expense,14326000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Operating Expense,14371000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Operating Income,29589000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Operating Income,42832000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Operating Income,29591000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Operating Income,25352000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Operating Income,27900000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Other Income Expense,-279000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Other Income Expense,-248000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Other Income Expense,19000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Other Income Expense,142000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Other Income Expense,158000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Pretax Income,29310000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Pretax Income,42584000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Pretax Income,29610000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Pretax Income,25494000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Pretax Income,28058000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Tax Provision,4530000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Tax Provision,6254000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Tax Provision,14874000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Tax Provision,4046000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Tax Provision,4422000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Net Income Common Stockholders,24780000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Net Income Common Stockholders,36330000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Net Income Common Stockholders,14736000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Net Income Common Stockholders,21448000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Net Income Common Stockholders,23636000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Diluted NI Available to Com Stockholders,24780000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Diluted NI Available to Com Stockholders,36330000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Diluted NI Available to Com Stockholders,14736000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Diluted NI Available to Com Stockholders,21448000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Diluted NI Available to Com Stockholders,23636000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Basic EPS,1.65,income_statement,AAPL,Q2,2025
+2024-12-31,Basic EPS,2.41,income_statement,AAPL,Q1,2024
+2024-09-30,Basic EPS,0.97,income_statement,AAPL,Q4,2024
+2024-06-30,Basic EPS,1.4,income_statement,AAPL,Q3,2024
+2024-03-31,Basic EPS,1.53,income_statement,AAPL,Q2,2024
+2025-03-31,Diluted EPS,1.65,income_statement,AAPL,Q2,2025
+2024-12-31,Diluted EPS,2.4,income_statement,AAPL,Q1,2024
+2024-09-30,Diluted EPS,0.97,income_statement,AAPL,Q4,2024
+2024-06-30,Diluted EPS,1.4,income_statement,AAPL,Q3,2024
+2024-03-31,Diluted EPS,1.53,income_statement,AAPL,Q2,2024
+2025-03-31,Basic Average Shares,14994082.0,income_statement,AAPL,Q2,2025
+2024-12-31,Basic Average Shares,15081724.0,income_statement,AAPL,Q1,2024
+2024-09-30,Basic Average Shares,15171990.0,income_statement,AAPL,Q4,2024
+2024-06-30,Basic Average Shares,15287521.0,income_statement,AAPL,Q3,2024
+2024-03-31,Basic Average Shares,15405856.0,income_statement,AAPL,Q2,2024
+2025-03-31,Diluted Average Shares,15056133.0,income_statement,AAPL,Q2,2025
+2024-12-31,Diluted Average Shares,15150865.0,income_statement,AAPL,Q1,2024
+2024-09-30,Diluted Average Shares,15242853.0,income_statement,AAPL,Q4,2024
+2024-06-30,Diluted Average Shares,15348175.0,income_statement,AAPL,Q3,2024
+2024-03-31,Diluted Average Shares,15464709.0,income_statement,AAPL,Q2,2024
+2025-03-31,Total Operating Income as Reported,29589000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Total Operating Income as Reported,42832000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Total Operating Income as Reported,29591000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Total Operating Income as Reported,25352000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Total Operating Income as Reported,27900000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Total Expenses,65770000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Total Expenses,81468000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Total Expenses,65339000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Total Expenses,60425000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Total Expenses,62853000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Net Income from Continuing & Discontinued Operation,24780000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Net Income from Continuing & Discontinued Operation,36330000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Net Income from Continuing & Discontinued Operation,14736000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Net Income from Continuing & Discontinued Operation,21448000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Net Income from Continuing & Discontinued Operation,23636000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Normalized Income,24780000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Normalized Income,36330000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Normalized Income,14736000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Normalized Income,21448000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Normalized Income,23636000.0,income_statement,AAPL,Q2,2024
+2025-03-31,EBIT,29589000.0,income_statement,AAPL,Q2,2025
+2024-12-31,EBIT,42832000.0,income_statement,AAPL,Q1,2024
+2024-09-30,EBIT,29591000.0,income_statement,AAPL,Q4,2024
+2024-06-30,EBIT,25352000.0,income_statement,AAPL,Q3,2024
+2024-03-31,EBIT,27900000.0,income_statement,AAPL,Q2,2024
+2025-03-31,EBITDA,32250000.0,income_statement,AAPL,Q2,2025
+2024-12-31,EBITDA,45912000.0,income_statement,AAPL,Q1,2024
+2024-09-30,EBITDA,32502000.0,income_statement,AAPL,Q4,2024
+2024-06-30,EBITDA,28202000.0,income_statement,AAPL,Q3,2024
+2024-03-31,EBITDA,30736000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Reconciled Cost of Revenue,50492000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Reconciled Cost of Revenue,66025000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Reconciled Cost of Revenue,51051000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Reconciled Cost of Revenue,46099000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Reconciled Cost of Revenue,48482000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Reconciled Depreciation,2661000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Reconciled Depreciation,3080000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Reconciled Depreciation,2911000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Reconciled Depreciation,2850000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Reconciled Depreciation,2836000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Net Income from Continuing Operation Net Minority Interest,24780000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Net Income from Continuing Operation Net Minority Interest,36330000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Net Income from Continuing Operation Net Minority Interest,14736000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Net Income from Continuing Operation Net Minority Interest,21448000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Net Income from Continuing Operation Net Minority Interest,23636000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Normalized EBITDA,32250000.0,income_statement,AAPL,Q2,2025
+2024-12-31,Normalized EBITDA,45912000.0,income_statement,AAPL,Q1,2024
+2024-09-30,Normalized EBITDA,32502000.0,income_statement,AAPL,Q4,2024
+2024-06-30,Normalized EBITDA,28202000.0,income_statement,AAPL,Q3,2024
+2024-03-31,Normalized EBITDA,30736000.0,income_statement,AAPL,Q2,2024
+2025-03-31,Total Assets,331233000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Total Liabilities Net Minority Interest,264437000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Total Equity Gross Minority Interest,66796000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Total Capitalization,145362000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Common Stock Equity,66796000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Capital Lease Obligations,,balance_sheet,AAPL,Q1,2025
+2025-03-31,Net Tangible Assets,66796000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Working Capital,-25897000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Invested Capital,164982000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Tangible Book Value,66796000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Total Debt,98186000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Net Debt,70024000.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Share Issued,14939315.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Ordinary Shares Number,14939315.0,balance_sheet,AAPL,Q1,2025
+2025-03-31,Treasury Shares Number,,balance_sheet,AAPL,Q1,2025
+2024-12-31,Total Assets,344085000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Total Liabilities Net Minority Interest,277327000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Total Equity Gross Minority Interest,66758000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Total Capitalization,150714000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Common Stock Equity,66758000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Capital Lease Obligations,,balance_sheet,AAPL,Q4,2024
+2024-12-31,Net Tangible Assets,66758000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Working Capital,-11125000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Invested Capital,163557000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Tangible Book Value,66758000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Total Debt,96799000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Net Debt,66500000.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Share Issued,15037874.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Ordinary Shares Number,15037874.0,balance_sheet,AAPL,Q4,2024
+2024-12-31,Treasury Shares Number,,balance_sheet,AAPL,Q4,2024
+2024-09-30,Total Assets,364980000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Total Liabilities Net Minority Interest,308030000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Total Equity Gross Minority Interest,56950000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Total Capitalization,142700000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Common Stock Equity,56950000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Capital Lease Obligations,,balance_sheet,AAPL,Q3,2024
+2024-09-30,Net Tangible Assets,56950000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Working Capital,-23405000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Invested Capital,163579000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Tangible Book Value,56950000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Total Debt,106629000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Net Debt,76686000.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Share Issued,15116786.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Ordinary Shares Number,15116786.0,balance_sheet,AAPL,Q3,2024
+2024-09-30,Treasury Shares Number,,balance_sheet,AAPL,Q3,2024
+2024-06-30,Total Assets,331612000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Total Liabilities Net Minority Interest,264904000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Total Equity Gross Minority Interest,66708000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Total Capitalization,152904000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Common Stock Equity,66708000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Capital Lease Obligations,,balance_sheet,AAPL,Q2,2024
+2024-06-30,Net Tangible Assets,66708000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Working Capital,-6189000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Invested Capital,168012000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Tangible Book Value,66708000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Total Debt,101304000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Net Debt,75739000.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Share Issued,15222259.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Ordinary Shares Number,15222259.0,balance_sheet,AAPL,Q2,2024
+2024-06-30,Treasury Shares Number,,balance_sheet,AAPL,Q2,2024
+2024-03-31,Total Assets,337411000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Total Liabilities Net Minority Interest,263217000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Total Equity Gross Minority Interest,74194000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Total Capitalization,166025000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Common Stock Equity,74194000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Capital Lease Obligations,,balance_sheet,AAPL,Q1,2024
+2024-03-31,Net Tangible Assets,74194000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Working Capital,4594000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Invested Capital,178784000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Tangible Book Value,74194000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Total Debt,104590000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Net Debt,71895000.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Share Issued,15337686.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Ordinary Shares Number,15337686.0,balance_sheet,AAPL,Q1,2024
+2024-03-31,Treasury Shares Number,,balance_sheet,AAPL,Q1,2024
+2025-03-31,Total Revenue,19335000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Total Revenue,25707000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Total Revenue,25182000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Total Revenue,25500000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Total Revenue,21301000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Cost of Revenue,16182000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Cost of Revenue,21528000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Cost of Revenue,20185000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Cost of Revenue,20922000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Cost of Revenue,17605000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Gross Profit,3153000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Gross Profit,4179000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Gross Profit,4997000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Gross Profit,4578000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Gross Profit,3696000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Operating Expense,2660000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Operating Expense,2589000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Operating Expense,2225000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Operating Expense,2351000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Operating Expense,2525000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Operating Income,493000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Operating Income,1590000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Operating Income,2772000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Operating Income,2227000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Operating Income,1171000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Net Non Operating Interest Income Expense,309000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Net Non Operating Interest Income Expense,346000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Net Non Operating Interest Income Expense,337000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Net Non Operating Interest Income Expense,262000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Net Non Operating Interest Income Expense,274000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Other Income Expense,-213000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Other Income Expense,830000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Other Income Expense,-325000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Other Income Expense,-602000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Other Income Expense,443000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Pretax Income,589000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Pretax Income,2766000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Pretax Income,2784000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Pretax Income,1887000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Pretax Income,1888000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Tax Provision,169000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Tax Provision,434000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Tax Provision,601000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Tax Provision,393000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Tax Provision,483000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Net Income Common Stockholders,409000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Net Income Common Stockholders,2314000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Net Income Common Stockholders,2167000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Net Income Common Stockholders,1478000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Net Income Common Stockholders,1432000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Diluted NI Available to Com Stockholders,409000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Diluted NI Available to Com Stockholders,2314000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Diluted NI Available to Com Stockholders,2167000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Diluted NI Available to Com Stockholders,1478000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Diluted NI Available to Com Stockholders,1432000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Basic EPS,0.13,income_statement,TSLA,Q1,2025
+2024-12-31,Basic EPS,0.72,income_statement,TSLA,Q4,2024
+2024-09-30,Basic EPS,0.68,income_statement,TSLA,Q3,2024
+2024-06-30,Basic EPS,0.46,income_statement,TSLA,Q2,2024
+2024-03-31,Basic EPS,0.37,income_statement,TSLA,Q1,2024
+2025-03-31,Diluted EPS,0.12,income_statement,TSLA,Q1,2025
+2024-12-31,Diluted EPS,0.66,income_statement,TSLA,Q4,2024
+2024-09-30,Diluted EPS,0.62,income_statement,TSLA,Q3,2024
+2024-06-30,Diluted EPS,0.42,income_statement,TSLA,Q2,2024
+2024-03-31,Diluted EPS,0.34,income_statement,TSLA,Q1,2024
+2025-03-31,Basic Average Shares,3218000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Basic Average Shares,3213000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Basic Average Shares,3198000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Basic Average Shares,3191000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Basic Average Shares,3186000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Diluted Average Shares,3521000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Diluted Average Shares,3517000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Diluted Average Shares,3497000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Diluted Average Shares,3481000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Diluted Average Shares,3484000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Total Operating Income as Reported,399000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Total Operating Income as Reported,1583000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Total Operating Income as Reported,2717000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Total Operating Income as Reported,1605000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Total Operating Income as Reported,1171000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Rent Expense Supplemental,239000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Rent Expense Supplemental,242000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Rent Expense Supplemental,247000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Rent Expense Supplemental,245000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Rent Expense Supplemental,269000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Total Expenses,18842000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Total Expenses,24117000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Total Expenses,22410000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Total Expenses,23273000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Total Expenses,20130000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Net Income from Continuing & Discontinued Operation,409000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Net Income from Continuing & Discontinued Operation,2356000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Net Income from Continuing & Discontinued Operation,2167000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Net Income from Continuing & Discontinued Operation,1478000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Net Income from Continuing & Discontinued Operation,1390000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Normalized Income,475740.0,income_statement,TSLA,Q1,2025
+2024-12-31,Normalized Income,2361901.66,income_statement,TSLA,Q4,2024
+2024-09-30,Normalized Income,2209900.0,income_statement,TSLA,Q3,2024
+2024-06-30,Normalized Income,1969380.0,income_statement,TSLA,Q2,2024
+2024-03-31,Normalized Income,1390000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Interest Income,400000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Interest Income,442000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Interest Income,429000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Interest Income,348000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Interest Income,350000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Interest Expense,91000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Interest Expense,96000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Interest Expense,92000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Interest Expense,86000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Interest Expense,76000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Net Interest Income,309000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Net Interest Income,346000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Net Interest Income,337000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Net Interest Income,262000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Net Interest Income,274000.0,income_statement,TSLA,Q1,2024
+2025-03-31,EBIT,680000.0,income_statement,TSLA,Q1,2025
+2024-12-31,EBIT,2862000.0,income_statement,TSLA,Q4,2024
+2024-09-30,EBIT,2876000.0,income_statement,TSLA,Q3,2024
+2024-06-30,EBIT,1973000.0,income_statement,TSLA,Q2,2024
+2024-03-31,EBIT,1964000.0,income_statement,TSLA,Q1,2024
+2025-03-31,EBITDA,2127000.0,income_statement,TSLA,Q1,2025
+2024-12-31,EBITDA,4358000.0,income_statement,TSLA,Q4,2024
+2024-09-30,EBITDA,4224000.0,income_statement,TSLA,Q3,2024
+2024-06-30,EBITDA,3251000.0,income_statement,TSLA,Q2,2024
+2024-03-31,EBITDA,3210000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Reconciled Cost of Revenue,16182000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Reconciled Cost of Revenue,21528000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Reconciled Cost of Revenue,20185000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Reconciled Cost of Revenue,20922000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Reconciled Cost of Revenue,17605000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Reconciled Depreciation,1447000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Reconciled Depreciation,1496000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Reconciled Depreciation,1348000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Reconciled Depreciation,1278000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Reconciled Depreciation,1246000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Net Income from Continuing Operation Net Minority Interest,409000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Net Income from Continuing Operation Net Minority Interest,2356000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Net Income from Continuing Operation Net Minority Interest,2167000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Net Income from Continuing Operation Net Minority Interest,1478000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Net Income from Continuing Operation Net Minority Interest,1390000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Total Unusual Items Excluding Goodwill,-94000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Total Unusual Items Excluding Goodwill,-7000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Total Unusual Items Excluding Goodwill,-55000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Total Unusual Items Excluding Goodwill,-622000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Total Unusual Items Excluding Goodwill,0.0,income_statement,TSLA,Q1,2024
+2025-03-31,Total Unusual Items,-94000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Total Unusual Items,-7000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Total Unusual Items,-55000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Total Unusual Items,-622000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Total Unusual Items,0.0,income_statement,TSLA,Q1,2024
+2025-03-31,Normalized EBITDA,2221000.0,income_statement,TSLA,Q1,2025
+2024-12-31,Normalized EBITDA,4365000.0,income_statement,TSLA,Q4,2024
+2024-09-30,Normalized EBITDA,4279000.0,income_statement,TSLA,Q3,2024
+2024-06-30,Normalized EBITDA,3873000.0,income_statement,TSLA,Q2,2024
+2024-03-31,Normalized EBITDA,3210000.0,income_statement,TSLA,Q1,2024
+2025-03-31,Tax Rate for Calcs,0.0,income_statement,TSLA,Q1,2025
+2024-12-31,Tax Rate for Calcs,0.0,income_statement,TSLA,Q4,2024
+2024-09-30,Tax Rate for Calcs,0.0,income_statement,TSLA,Q3,2024
+2024-06-30,Tax Rate for Calcs,0.0,income_statement,TSLA,Q2,2024
+2024-03-31,Tax Rate for Calcs,0.0,income_statement,TSLA,Q1,2024
+2025-03-31,Tax Effect of Unusual Items,-27260.0,income_statement,TSLA,Q1,2025
+2024-12-31,Tax Effect of Unusual Items,-1098.34,income_statement,TSLA,Q4,2024
+2024-09-30,Tax Effect of Unusual Items,-12100.0,income_statement,TSLA,Q3,2024
+2024-06-30,Tax Effect of Unusual Items,-130620.0,income_statement,TSLA,Q2,2024
+2024-03-31,Tax Effect of Unusual Items,0.0,income_statement,TSLA,Q1,
+2025-03-31,Total Assets,125111000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Total Liabilities Net Minority Interest,49693000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Total Equity Gross Minority Interest,75418000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Total Capitalization,79733000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Common Stock Equity,74653000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Capital Lease Obligations,5884000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Net Tangible Assets,74261000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Working Capital,29636000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Invested Capital,81897000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Tangible Book Value,74261000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Total Debt,13128000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Share Issued,3220000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Ordinary Shares Number,3220000.0,balance_sheet,TSLA,Q1,2025
+2025-03-31,Treasury Shares Number,,balance_sheet,TSLA,Q1,2025
+2024-12-31,Total Assets,122070000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Total Liabilities Net Minority Interest,48390000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Total Equity Gross Minority Interest,73680000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Total Capitalization,78448000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Common Stock Equity,72913000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Capital Lease Obligations,5745000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Net Tangible Assets,71443000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Working Capital,29539000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Invested Capital,80791000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Tangible Book Value,71443000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Total Debt,13623000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Share Issued,3216000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Ordinary Shares Number,3216000.0,balance_sheet,TSLA,Q4,2024
+2024-12-31,Treasury Shares Number,,balance_sheet,TSLA,Q4,2024
+2024-09-30,Total Assets,119852000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Total Liabilities Net Minority Interest,49142000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Total Equity Gross Minority Interest,70710000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Total Capitalization,75206000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Common Stock Equity,69931000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Capital Lease Obligations,5393000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Net Tangible Assets,69520000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Working Capital,25802000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Invested Capital,77321000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Tangible Book Value,69520000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Total Debt,12783000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Share Issued,3207000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Ordinary Shares Number,3207000.0,balance_sheet,TSLA,Q3,2024
+2024-09-30,Treasury Shares Number,0.0,balance_sheet,TSLA,Q3,2024
+2024-06-30,Total Assets,112832000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Total Liabilities Net Minority Interest,45569000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Total Equity Gross Minority Interest,67263000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Total Capitalization,71806000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Common Stock Equity,66468000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Capital Lease Obligations,5153000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Net Tangible Assets,66055000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Working Capital,25248000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Invested Capital,73830000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Tangible Book Value,66055000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Total Debt,12515000.0,balance_sheet,TSLA,Q2,2024
+2024-06-30,Share Issued,3194640.42,balance_sheet,TSLA,Q2,2024
+2024-06-30,Ordinary Shares Number,3194640.42,balance_sheet,TSLA,Q2,2024
+2024-06-30,Treasury Shares Number,0.0,balance_sheet,TSLA,Q2,2024
+2024-03-31,Total Assets,109226000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Total Liabilities Net Minority Interest,44046000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Total Equity Gross Minority Interest,65180000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Total Capitalization,67117000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Common Stock Equity,64378000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Capital Lease Obligations,5037000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Net Tangible Assets,63957000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Working Capital,21082000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Invested Capital,69252000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Tangible Book Value,63957000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Total Debt,9911000.0,balance_sheet,TSLA,Q1,2024
+2024-03-31,Share Issued,3188965.78,balance_sheet,TSLA,Q1,2024
+2024-03-31,Ordinary Shares Number,3188965.78,balance_sheet,TSLA,Q1,2024
+2024-03-31,Treasury Shares Number,0.0,balance_sheet,TSLA,Q1,2024
